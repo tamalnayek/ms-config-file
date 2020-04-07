@@ -1,0 +1,4 @@
+productms.h2.console.enabled: true
+productms.datasource.url: "jdbc:h2:mem:productDB;DB_CLOSE_DELAY=-1"
+productms.datasource.username: tam
+productms.datasource.password: 
