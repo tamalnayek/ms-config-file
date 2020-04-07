@@ -2,3 +2,4 @@ ms.h2.console.enabled: true
 ms.datasource.url: "jdbc:h2:mem:productDB;DB_CLOSE_DELAY=-1"
 ms.datasource.username: tam
 ms.datasource.password: 
+greetprop: "Hello there"
